@@ -1,3 +1,6 @@
 node_modules/
 playground/
 notes.txt
+server/utils/users.my.js
+server/utils/users.test.my.js
+server/utils/users.hold.js
